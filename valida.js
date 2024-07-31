@@ -30,7 +30,7 @@ botao.addEventListener('click', function logar(){
     }
 
     if(validaLogin == true){
-        location.href = 'Home.html'
+        location.href = 'index2.html'
     }else{
         alert('Usuário ou senha incorreta!')
     }
