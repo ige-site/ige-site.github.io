@@ -5,11 +5,19 @@ const usuarios = [
     },
     {
         login: 'Ruan',
-        pass: 'Ruan'
+        pass: 'Ruan123'
     },
     {
         login: 'admin',
         pass: 'admin'
+    },
+    {
+        login: 'Manuela',
+        pass: 'Manuela123'
+    },
+    {
+        login: 'Alan',
+        pass: 'Alan123'
     }
 ]
 
